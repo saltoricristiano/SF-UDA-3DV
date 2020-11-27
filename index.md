@@ -1,7 +1,16 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Example
 ---
 
-## Welcome to another page
+# Example project
+
+- [About the project](about)
+- [Publications](publications)
+- [Team](team)
+
+# News
+
+- Some event
+- Another exciting event
+- More news
