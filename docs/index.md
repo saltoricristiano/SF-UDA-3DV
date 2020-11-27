@@ -3,7 +3,7 @@ layout: default
 title: Example
 ---
 
-##[Code](https://github.com/saltoricristiano/SF-UDA-3DV)			[Paper](https://arxiv.org/abs/2010.08243)
+<div align="center"> \[Code\](https://github.com/saltoricristiano/SF-UDA-3DV) \[Paper\](https://arxiv.org/abs/2010.08243) <div>
 
 
 # Introduction
