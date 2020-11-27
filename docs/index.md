@@ -24,7 +24,7 @@ Check the [full paper!](https://arxiv.org/abs/2010.08243)
 ![nusc2kitti](/images/nusc2kitti.jpg)
 
 # Adapting on nuScenes
-![kitti2nusc](/images/kitti2nuscenes.jpg)
+![kitti2nusc](/images/kitti2nusc.jpg)
 
 
 # Pseudo-annotations
