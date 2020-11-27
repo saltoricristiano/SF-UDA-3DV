@@ -15,6 +15,21 @@ Check the [full paper!](https://arxiv.org/abs/2010.08243)
 
 ![Method](/images/method.png)
 
+# Domain shift in LiDAR data
+
+
+
+# Adapting on KITTI
+
+![nusc2kitti](/images/nusc2kitti.png)
+
+# Adapting on nuScenes
+![kitti2nusc](/images/kitti2nuscenes.png)
+
+
+# Pseudo-annotations
+
+
 
 # Acknowledgments
 
