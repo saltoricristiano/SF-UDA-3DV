@@ -21,10 +21,10 @@ Check the [full paper!](https://arxiv.org/abs/2010.08243)
 
 # Adapting on KITTI
 
-![nusc2kitti](/images/nusc2kitti.png)
+![nusc2kitti](/images/nusc2kitti.jpg)
 
 # Adapting on nuScenes
-![kitti2nusc](/images/kitti2nuscenes.png)
+![kitti2nusc](/images/kitti2nuscenes.jpg)
 
 
 # Pseudo-annotations
