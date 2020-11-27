@@ -16,3 +16,8 @@ SF-UDA$^{3D}$ outperforms both previous domain adaptation techniques based on fe
 ![Method](/images/method.png)
 
 
+# Acknowledgments
+
+The work was partially supported by OSRAM GmbH and was carried out in the Vision and Learning joint laboratory of [FBK](https://www.fbk.eu/en/) and [UNITN](http://mhug.disi.unitn.it/index.php/people/). We thank the CARITRO Deep Learning laboratory of [ProM Facility](https://polomeccatronica.it/cosa-offriamo/laboratori-prom) for the granted GPU time.
+
+
